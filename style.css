@@ -46,6 +46,7 @@ nav {
   transition: -webkit-clip-path 0.5625s, clip-path 0.375s;
   margin-left: 80%;
   padding: 0px;
+  border-radius: 10px; 
 }
 
 nav:hover {
